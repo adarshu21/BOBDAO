@@ -1,6 +1,6 @@
-import airbnb from "./airbnb.png";
+import shardeum from "./shard.png";
 import bill from "./bill.png";
-import binance from "./binance.png";
+import binance from "./filec.png";
 import card from "./card.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
@@ -25,7 +25,7 @@ import people02 from "./people02.png";
 import people03 from "./people03.png";
 
 export {
-  airbnb,
+  shardeum,
   bill,
   binance,
   card,

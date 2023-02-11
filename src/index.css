@@ -51,7 +51,7 @@
     144.39deg,
     #ffffff -278.56%,
     #6d6d6d -78.47%,
-    #11101d 91.61%
+    #cf1d49 91.61%
   );
 }
 
@@ -63,7 +63,19 @@
     #11101d 91.61%
   );
 }
-
+.bg-second {
+  background: #000428; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #004e92,
+    #000428
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #004e92,
+    #000428
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
 .bg-gray-gradient {
   background: linear-gradient(
     153.47deg,

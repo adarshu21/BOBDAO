@@ -1,4 +1,19 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import {
+  people01,
+  people02,
+  people03,
+  facebook,
+  instagram,
+  linkedin,
+  twitter,
+  binance,
+  coinbase,
+  dropbox,
+  send,
+  shield,
+  star,
+  shardeum,
+} from "../assets";
 
 export const navLinks = [
   {
@@ -7,15 +22,15 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Features",
+    title: "About",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Partners",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Contact Us",
   },
 ];
 
@@ -73,17 +88,17 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Participants",
+    value: "1000+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Sponsors",
     value: "230+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
+    title: "Prize Pool",
     value: "$230M+",
   },
 ];
@@ -180,7 +195,7 @@ export const socialMedia = [
 export const clients = [
   {
     id: "client-1",
-    logo: airbnb,
+    logo: shardeum,
   },
   {
     id: "client-2",
