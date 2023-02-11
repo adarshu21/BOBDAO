@@ -14,11 +14,12 @@ const Footer = () => (
         />
       </div>
 
-      <div className="flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10">
-        <p className={`${styles.paragraph} mt-16 `}>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias,
-          laboriosam.
-        </p>
+      <div className="flex-[0.7] w-full flex flex-row justify-between items-end flex-wrap md:mt-0 mt-10">
+        <div className="flex justify-between">
+          <p className={`${styles.paragraph2} items-end mt-16`}>
+            Brought to you by BOBDAO and Devfolio
+          </p>
+        </div>
       </div>
     </div>
 

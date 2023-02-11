@@ -6,6 +6,9 @@ const styles = {
   paragraph:
     "font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px]",
 
+  paragraph2:
+    "font-poppins font-normal text-dimWhite text-[26px] leading-[20.8px]",
+
   flexCenter: "flex justify-center items-center",
   flexStart: "flex justify-center items-start",
 

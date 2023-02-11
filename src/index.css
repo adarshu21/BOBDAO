@@ -150,3 +150,8 @@
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
 }
+
+.test {
+  display: flex;
+  align-items: flex-end;
+}
