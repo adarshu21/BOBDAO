@@ -38,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Prizes",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Get ready to hack your way to glory with a grand prize pool of $1000 up for grabs! ",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Mode and Venue",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Join us at the hybrid event where the world is your playground, both online and in person at RV College of Engineering, where innovation meets reality.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Duration",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Mark your calendars for 10-15 March and gear up for 5 days of non-stop action at our event, followed by a demo day scheduled on 17 March!",
   },
 ];
 

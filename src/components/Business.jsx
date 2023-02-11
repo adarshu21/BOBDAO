@@ -31,11 +31,12 @@ const Business = () => (
         Celebrating Our Love For Innovation
         <br className="sm:block hidden" />
       </h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit, nostrum
-        odio! Ratione earum ullam delectus sunt sint, aspernatur, at maxime cum
-        quis quibusdam illo unde nesciunt odit quasi placeat excepturi
-        voluptatum a.
+      <p className={`text-[16px] ${styles.paragraph} max-w-[600px] mt-3`}>
+        BOBDAO is proud to present 'Buidl For The Future 2023', a web3 hackathon
+        aimed at inspiring innovation in the web3 community. This event is a
+        platform for developers and thinkers to collaborate and bring their
+        ideas to life in support of a decentralized future. Join us for a unique
+        opportunity to be a part of shaping the future with web3 technology.
       </p>
 
       <Button styles={`mt-10`} />
